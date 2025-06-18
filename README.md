@@ -1,8 +1,3 @@
----
-layout: default
-title: Emerald Shire Events
----
-
 # Emerald Shire Events
 
 Welcome to **Emerald Shire Events** — your premier event services partner specializing in helping game publishers and creators connect with their community. We thrive in local game store environments and bring creative energy to industry trade shows like **PAX**, **ComicCon**, and more.
