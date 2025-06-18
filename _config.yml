@@ -36,6 +36,14 @@ Interested in working with us? Reach out at **info@emeraldshireevents.com**.
 ---
 
 <style>
+.wrapper > header:nth-child(1){
+  display: none;
+}
+
+.wrapper > footer:nth-child(3){
+  display: none;
+}
+
 body {
   background-color: #e6f2e6;
   color: #013220;
