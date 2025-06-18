@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Emerald Shire Events
 description: Bringing The Joy of the Shire to Your Events! Contact us today to learn how we can make your event one to remember!
 layout: default
+show_downloads: false
 ---
 
 # Emerald Shire Events
